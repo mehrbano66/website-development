@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Hello, World!</title>
+
+<link rel="stylesheet" href="styles.css" />
+
+<style>
+
+.box1{
+
+background-color: aquamarine;
+
+width:100px;
+
+height: 100px;
+
+border: 10px solid red;
+
+padding-left: 0px ;
+
+margin: 100px;
+
+box-shadow: 20px 1px 20px 10px blue;
+
+text-align: right;
+
+font-family: Sans-Serif;
+
+text-transform: capitalize;
+
+text-decoration: underline overline;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class= "box1">I am content</div>
+
+</body>
+
+</html>
